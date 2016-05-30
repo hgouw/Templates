@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Empty", "WebApi_Empt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinglePage", "SinglePage\SinglePage.csproj", "{A3D3F0E0-827A-4088-9A19-22219E72AA16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc_Azure", "Mvc_Azure\Mvc_Azure.csproj", "{B36A7288-7230-478A-B426-4CBE7AA22213}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{A3D3F0E0-827A-4088-9A19-22219E72AA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D3F0E0-827A-4088-9A19-22219E72AA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D3F0E0-827A-4088-9A19-22219E72AA16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B36A7288-7230-478A-B426-4CBE7AA22213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36A7288-7230-478A-B426-4CBE7AA22213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36A7288-7230-478A-B426-4CBE7AA22213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36A7288-7230-478A-B426-4CBE7AA22213}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
